@@ -31,13 +31,4 @@ This is a small project I made when I was studying the basics of **Object Orient
 -> Run the program:
 ```bash
 
-python puppy\_playpark.py
-
-
-
-
-
-
-
-
-
+python puppy_playpark.py
